@@ -93,7 +93,7 @@ void main (){
 
     printf("%d ....before func \n", arr[0]);
     callRefs(arr, 700);
-    printf("%d ....before func \n", arr[0]);
+    printf("%d ....after func \n", arr[0]);
 
 
 

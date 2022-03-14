@@ -1,10 +1,6 @@
 #include<stdio.h>
 
 
-
-
-
-
 int main (){
 
     //make it sortable array

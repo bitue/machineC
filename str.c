@@ -39,10 +39,7 @@ void main (){
 
 
 
-    char google[2];
 
-    printf("%d scanf func return is ", scanf("%s",google));
-    printf("%s google is",google);
 
 
 

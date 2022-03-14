@@ -18,7 +18,7 @@ void main (){
 
 
 
-   if(1 == scanf("%s   ", name)) {
+   if(1 == scanf("%s", name)) {
         length = getCharLength(name);
 
     }

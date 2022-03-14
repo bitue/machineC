@@ -30,14 +30,6 @@ void main (){
 
     }
 
-
-
-
     printf("%s", full_name);
-
-
-
-
-
 
 }
